@@ -6,7 +6,7 @@ It should take roughly 3-4 hours and you have one week to provide your submissio
 If you have questions or issues during its development, do not hesitate to reach out.
 My email is jacob@okteto.com.
 
-You can deliver the solution as a GitHub repository, answering the questions in the README and completing the configuration needed.
+You can deliver the solution as a fork of this GitHub repository, answering the questions in the README and completing the configuration needed.
 Additionally, provide a link to your Okteto namespace with the application running.
 If you prefer to keep the repo private, you can share it with GitHub user jmacelroy (https://github.com/jmacelroy).
 
